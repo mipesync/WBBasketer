@@ -1,6 +1,6 @@
-﻿using WBBasketer.Managers;
-using WBBasketer.Models.Dtos;
+﻿using WBBasketer.Models.Dtos;
 using WBBasketer.Options;
+using WBBasketer.Repositories;
 
 var bearerToken = string.Empty;
 var sessionId = string.Empty;

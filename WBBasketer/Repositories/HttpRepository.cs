@@ -1,11 +1,10 @@
 ﻿using System.Net;
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
-using System.Text.Json;
 using WBBasketer.Models.Dtos;
 using WBBasketer.Options;
 
-namespace WBBasketer.Managers;
+namespace WBBasketer.Repositories;
 
 public class HttpRepository
 {
